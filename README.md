@@ -1,5 +1,5 @@
 # Tugas-Akhir Saharudin
-Disain Kolam terpal ikan lele di disain dari aplikasi Autodesk Fusion 360
+Disain Kolam terpal ikan lele
 ![SAVE_20230614_205327](https://github.com/Saharudinsh/Tugas-Akhir/assets/83653696/192ccc33-b597-457e-9652-35d9f4e5a9ac)
 
 ![IMG_20230917_093833_1](https://github.com/Saharudinsh/Tugas-Akhir/assets/83653696/1416aa8a-b0af-4c51-9c32-f3b44634535b)
