@@ -8,9 +8,9 @@
 #include <TimeLib.h>
 
 #define WIFI_SSID "Kos Fatanah"
-#define WIFI_PASSWORD "Kostfatonah"
-#define FIREBASE_HOST "tugasakhir01-13689-default-rtdb.firebaseio.com"
-#define FIREBASE_AUTH "wsJTbQ7BPWx41vsWpJz9bsgHcDSZNUUZw5mdpPB7"
+#define WIFI_PASSWORD "Kost***********"
+#define FIREBASE_HOST "tugasakhir********************.com"
+#define FIREBASE_AUTH "wsJTbQ7BPWx41vsWpJ*************************"
 
 #define sensorPin A0
 #define echoPin 0
